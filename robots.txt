@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://seppukusoft.github.io/gatogazette/sitemap.xml
