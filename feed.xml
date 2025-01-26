@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Gato Gazette</title>
-    <link href="https://seppukusoft.github.io/gatogazette/feed.xml" rel="self" />
-    <link href="https://seppukusoft.github.io/gatogazette" />
+    <link href="https://gatogazette.com/feed.xml" rel="self" />
+    <link href="https://gatogazette.com" />
     <updated>2025-01-25T19:54:35-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
-    <id>https://seppukusoft.github.io/gatogazette</id>
+    <id>https://gatogazette.com</id>
 
     <entry>
         <title>Results: 133rd Senate Approval Poll</title>
         <author>
             <name>Gato</name>
         </author>
-        <link href="https://seppukusoft.github.io/gatogazette/results-133rd-senate-approval-poll/"/>
-        <id>https://seppukusoft.github.io/gatogazette/results-133rd-senate-approval-poll/</id>
+        <link href="https://gatogazette.com/results-133rd-senate-approval-poll/"/>
+        <id>https://gatogazette.com/results-133rd-senate-approval-poll/</id>
             <category term="Polling"/>
             <category term="Politics"/>
 
@@ -47,18 +47,18 @@
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Ppatpat-C.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Ppatpat-C-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Muggy-Ind.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Muggy-Ind-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure>
@@ -75,18 +75,18 @@
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Lucas-Ind-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Lucas-Ind-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Kelvin-FBP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Kelvin-FBP-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Milk-SDNP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Milk-SDNP-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure>
@@ -107,38 +107,38 @@
   <div  class="gallery-wrapper gallery-wrapper--full">
     <div class="gallery" data-columns="4">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Niko-Belic-C-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Niko-Belic-C-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Stalin-NPP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Stalin-NPP-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Cheez-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Cheez-LP-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Eleanor-QQQ-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Eleanor-QQQ-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2.png" data-size="600x369">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2-thumbnail.png" height="369" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2.png" data-size="600x369">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2-thumbnail.png" height="369" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Dylan-USL-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/4/gallery/Sen.-Dylan-USL-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure>
@@ -170,8 +170,8 @@
         <author>
             <name>Gato</name>
         </author>
-        <link href="https://seppukusoft.github.io/gatogazette/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/"/>
-        <id>https://seppukusoft.github.io/gatogazette/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/</id>
+        <link href="https://gatogazette.com/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/"/>
+        <id>https://gatogazette.com/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/</id>
             <category term="Politics"/>
             <category term="Opinion"/>
 
@@ -184,7 +184,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
+      <img loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
       
     </figure>
 <hr class="separator separator--dots" />
@@ -203,7 +203,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://seppukusoft.github.io/gatogazette/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
       
     </figure>
 <hr class="separator separator--dots" />
@@ -264,8 +264,8 @@
         <author>
             <name>Gato</name>
         </author>
-        <link href="https://seppukusoft.github.io/gatogazette/interview-with-senate-candidate-max/"/>
-        <id>https://seppukusoft.github.io/gatogazette/interview-with-senate-candidate-max/</id>
+        <link href="https://gatogazette.com/interview-with-senate-candidate-max/"/>
+        <id>https://gatogazette.com/interview-with-senate-candidate-max/</id>
             <category term="Politics"/>
             <category term="Interview"/>
             <category term="Election"/>
@@ -284,7 +284,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/6/ac37ca02827175b2084f2ff16d56793b-2.jpg" height="256" width="256" alt="Max's profile picture."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-xs.jpg 640w ,https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-sm.jpg 768w ,https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-md.jpg 1024w ,https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-lg.jpg 1366w ,https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-xl.jpg 1600w ,https://seppukusoft.github.io/gatogazette/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-2xl.jpg 1920w">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/6/ac37ca02827175b2084f2ff16d56793b-2.jpg" height="256" width="256" alt="Max's profile picture."  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-xs.jpg 640w ,https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-sm.jpg 768w ,https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-md.jpg 1024w ,https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-lg.jpg 1366w ,https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-xl.jpg 1600w ,https://gatogazette.com/media/posts/6/responsive/ac37ca02827175b2084f2ff16d56793b-2-2xl.jpg 1920w">
       <figcaption>Max's profile picture.</figcaption>
     </figure>
 <hr class="separator separator--dots" />
@@ -322,8 +322,8 @@
         <author>
             <name>Gato</name>
         </author>
-        <link href="https://seppukusoft.github.io/gatogazette/short-report-amendment-referendum-exit-poll/"/>
-        <id>https://seppukusoft.github.io/gatogazette/short-report-amendment-referendum-exit-poll/</id>
+        <link href="https://gatogazette.com/short-report-amendment-referendum-exit-poll/"/>
+        <id>https://gatogazette.com/short-report-amendment-referendum-exit-poll/</id>
             <category term="Polling"/>
             <category term="Politics"/>
 
@@ -343,13 +343,13 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="2">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/What_was_your_vote_for_Question_1_-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/What_was_your_vote_for_Question_1_-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/What_was_your_vote_for_Question_1_-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/What_was_your_vote_for_Question_1_-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure>
@@ -367,18 +367,18 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_1_.png" data-size="655x405">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="405" width="655" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_1_.png" data-size="655x405">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_1_-thumbnail.png" height="405" width="655" alt="" >
       </a>
       
     </figure>
@@ -396,18 +396,18 @@
   <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/SDPB_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/UNITY_AND_LEAN_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="371" width="600" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="655x405">
-        <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="405" width="655" alt="" >
+      <a href="https://gatogazette.com/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_2_-2.png" data-size="655x405">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/gallery/IND_SMALL_PARTIES_ONLY_What_was_your_vote_for_Question_2_-2-thumbnail.png" height="405" width="655" alt="" >
       </a>
       
     </figure>
@@ -419,7 +419,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://seppukusoft.github.io/gatogazette/media/posts/7/IND_ONLY_What_party_do_you_most_align_with_-2.png" height="512" width="828" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xs.png 640w ,https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-sm.png 768w ,https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-md.png 1024w ,https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-lg.png 1366w ,https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xl.png 1600w ,https://seppukusoft.github.io/gatogazette/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-2xl.png 1920w">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/IND_ONLY_What_party_do_you_most_align_with_-2.png" height="512" width="828" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xs.png 640w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-sm.png 768w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-md.png 1024w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-lg.png 1366w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xl.png 1600w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-2xl.png 1920w">
       
     </figure>
             ]]>

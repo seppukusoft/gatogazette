@@ -1,1 +1,1 @@
-Canonical: https://seppukusoft.github.io/gatogazette/security.txt
+Canonical: https://gatogazette.com/security.txt
