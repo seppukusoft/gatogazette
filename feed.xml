@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-01-26T19:38:55-05:00</updated>
+    <updated>2025-01-27T02:01:37-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://gatogazette.com/results-133rd-senate-approval-poll/"/>
         <id>https://gatogazette.com/results-133rd-senate-approval-poll/</id>
+        <media:content url="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" medium="image" />
             <category term="Polling"/>
             <category term="Politics"/>
 
         <updated>2025-01-23T22:01:14-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" alt="" />
                     I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)! The poll was conducted by asking respondents to indicate approval, disapproval, or neutrality/unfamiliarity with each of the 13 current senators. After&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)!
@@ -190,19 +193,21 @@ navigator.clipboard.writeText(url).then(function() {
         </author>
         <link href="https://gatogazette.com/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/"/>
         <id>https://gatogazette.com/opinion-do-not-let-halfcats-plea-fall-on-deaf-ears/</id>
+        <media:content url="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" medium="image" />
             <category term="Politics"/>
             <category term="Opinion"/>
 
         <updated>2025-01-22T00:40:01-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" alt="" />
                     
   <p id="lessspan-stylefont-weight-normalgreaterlessigreaterthe-death-of-simdemocracy-need-not-be-an-inevitabilitylessigreaterlessspangreater" class="align-center">
     <span style="font-weight: normal;"><i>The death of SimDemocracy need not be an inevitability.</i></span>
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
+      <img loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909-2.jpg" height="768" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-2xl.jpg 1920w">
       
     </figure>
 <hr class="separator separator--dots" />
@@ -215,13 +220,14 @@ navigator.clipboard.writeText(url).then(function() {
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p id="lessspan-stylefont-weight-normalgreaterlessigreaterthe-death-of-simdemocracy-need-not-be-an-inevitabilitylessigreaterlessspangreater" class="align-center">
     <span style="font-weight: normal;"><i>The death of SimDemocracy need not be an inevitability.</i></span>
   </p>
 
     <figure class="post__image post__image--center">
-      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909.jpg" height="768" width="1024" alt="closely-packed gravestones in a cemetery"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2xl.jpg 1920w">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/3/grave-graveyard-cemetery-1d9909-2.jpg" height="768" width="1024" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-xs.jpg 640w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-sm.jpg 768w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-md.jpg 1024w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-lg.jpg 1366w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-xl.jpg 1600w ,https://gatogazette.com/media/posts/3/responsive/grave-graveyard-cemetery-1d9909-2-2xl.jpg 1920w">
       
     </figure>
 <hr class="separator separator--dots" />
@@ -302,6 +308,7 @@ navigator.clipboard.writeText(url).then(function() {
         </author>
         <link href="https://gatogazette.com/interview-with-senate-candidate-max/"/>
         <id>https://gatogazette.com/interview-with-senate-candidate-max/</id>
+        <media:content url="https://gatogazette.com/media/posts/6/ac37ca02827175b2084f2ff16d56793b-3.jpg" medium="image" />
             <category term="Politics"/>
             <category term="Interview"/>
             <category term="Election"/>
@@ -309,11 +316,13 @@ navigator.clipboard.writeText(url).then(function() {
         <updated>2025-01-18T13:15:00-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/6/ac37ca02827175b2084f2ff16d56793b-3.jpg" alt="" />
                     Max is a member of the NPP who is running as an independent in the upcoming Senate election. We sat down with him to provide the public with a more comprehensive look at his platform and goals. Would you like to begin by introducing yourself&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/6/ac37ca02827175b2084f2ff16d56793b-3.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Max is a member of the NPP who is running as an independent in the upcoming Senate election. We sat down with him to provide the public with a more comprehensive look at his platform and goals.<br>
@@ -383,17 +392,20 @@ navigator.clipboard.writeText(url).then(function() {
         </author>
         <link href="https://gatogazette.com/short-report-amendment-referendum-exit-poll/"/>
         <id>https://gatogazette.com/short-report-amendment-referendum-exit-poll/</id>
+        <media:content url="https://gatogazette.com/media/posts/7/What_was_your_vote_for_Question_1_-3.png" medium="image" />
             <category term="Polling"/>
             <category term="Politics"/>
 
         <updated>2025-01-15T20:07:00-05:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/7/What_was_your_vote_for_Question_1_-3.png" alt="" />
                     Based on the current exit poll results, Question 1 is expected to narrowly pass, while Question 2 is expected to fail. Note that a 2/3 (66.6%) majority is needed for either to pass. Looking closer at the data, we can see the following trends: Question&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/7/What_was_your_vote_for_Question_1_-3.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Based on the current exit poll results, <b>Question 1 is expected to narrowly pass</b>, while <b>Question 2 is expected to fail</b>. Note that a 2/3 (66.6%) majority is needed for either to pass.
