@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-01-25T19:54:35-05:00</updated>
+    <updated>2025-01-26T19:38:55-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -162,6 +162,24 @@
   </p>
 <pre class=" language-html"><code>*This poll was sponsored by Ppatpat, who paid for the poll to be conducted but had no influence on the data collection, results, or this report.
 </code></pre>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
@@ -256,6 +274,24 @@
   <p>
     <b>Resistance at all levels is the only way to keep SimDem as it should be: fun, not failed.</b>
   </p>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
@@ -313,6 +349,29 @@
 <br><br><b>Finally, if you could summarize your campaign in a single word, what would it be?
 </b><br>
 <br>Trust.
+  </p>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
+</div>
+
+  <p>
+    
   </p>
             ]]>
         </content>
@@ -422,6 +481,24 @@
       <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/7/IND_ONLY_What_party_do_you_most_align_with_-2.png" height="512" width="828" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xs.png 640w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-sm.png 768w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-md.png 1024w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-lg.png 1366w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-xl.png 1600w ,https://gatogazette.com/media/posts/7/responsive/IND_ONLY_What_party_do_you_most_align_with_-2-2xl.png 1920w">
       
     </figure>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
