@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-01-31T03:49:38-05:00</updated>
+    <updated>2025-01-31T04:04:19-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -88,6 +88,7 @@ Example: "u/example (Chairman Mao)"):</b> Who are you? Tell us about yourself. <
         };
     </script>
 </div>
+<hr class="separator separator--long-line" />
 <div><h4>Share article:</h4>
 <center>
 <button onclick="copyURL()">Copy link</button>
@@ -107,6 +108,10 @@ navigator.clipboard.writeText(url).then(function() {
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
 </div>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
