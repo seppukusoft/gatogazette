@@ -3,12 +3,113 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-01-30T19:08:53-05:00</updated>
+    <updated>2025-01-31T03:49:38-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
     <id>https://gatogazette.com</id>
 
+    <entry>
+        <title>134th Senate Candidates Survey</title>
+        <author>
+            <name>Gato</name>
+        </author>
+        <link href="https://gatogazette.com/134th-senate-candidates-survey/"/>
+        <id>https://gatogazette.com/134th-senate-candidates-survey/</id>
+        <media:content url="https://gatogazette.com/media/posts/17/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" medium="image" />
+            <category term="Politics"/>
+            <category term="Interview"/>
+            <category term="Election"/>
+
+        <updated>2025-01-31T02:38:48-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/17/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" alt="" />
+                    We wanted to provide the public with an opportunity to hear directly from the candidates in a single, centralized location, so we sent a five-question survey to every Senate candidate we could get ahold of (if you are a candidate and didn't receive a link,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/17/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    We wanted to provide the public with an opportunity to hear directly from the candidates in a single, centralized location, so we sent a five-question survey to every Senate candidate we could get ahold of (if you are a candidate and didn't receive a link, please contact Gato).<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/17/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2.jpg" height="696" width="1200" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-xs.jpg 640w ,https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-sm.jpg 768w ,https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-md.jpg 1024w ,https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-lg.jpg 1366w ,https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-xl.jpg 1600w ,https://gatogazette.com/media/posts/17/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    The responses to the survey will be updated below live, as they are received:
+  </p>
+<div>    <div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
+    <div id="a2"><h3>What is your flagship legislation/primary legislative goal?</h3></div>
+    <div id="a3"><h3>What changes to our economic system do you support?</h3></div>
+    <div id="a4"><h3>What are your views on foreign policy (ex. VoD relations)?</h3></div>
+    <div id="a5"><h3>Why are you the best person for the job?</h3></div>
+    <style>
+    h3, em {text-align: center;}
+    </style>
+    <script>
+        let SHEET_ID = '16vRxd9MYg_VV8_wTMA7-sqVbYQT4H2o4YQhOmD867Aw';
+        let SHEET_TITLE = 'Form Responses 1';
+        let RANGE = 'A1:G29';
+        let FULL_URL = (`https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?sheet=${SHEET_TITLE}&range=${RANGE}`);
+        window.onload = (event) => {
+          fetch(FULL_URL)
+            .then(res => res.text())
+            .then(rep => {
+                let data = JSON.parse(rep.substr(47).slice(0, -2));
+                for (let i = 0; i < data.table.rows.length; i++) {
+                    name = data.table.rows[i].c[1].v;
+                    a1 = data.table.rows[i].c[2].v;
+                    a2 = data.table.rows[i].c[3].v;
+                    a3 = data.table.rows[i].c[4].v;
+                    a4 = data.table.rows[i].c[5].v;
+                    a5 = data.table.rows[i].c[6].v;
+                    document.getElementById('a1').innerHTML += `<b>${name}:</b> ${a1}<br>`;
+                    document.getElementById('a2').innerHTML += `<b>${name}:</b> ${a2}<br>`;
+                    document.getElementById('a3').innerHTML += `<b>${name}:</b> ${a3}<br>`;
+                    document.getElementById('a4').innerHTML += `<b>${name}:</b> ${a4}<br>`;
+                    document.getElementById('a5').innerHTML += `<b>${name}:</b> ${a5}<br>`;
+                    if (document.getElementById('a1').innerHTML == `<h3>Who are you? Tell us about yourself.</h3><b>What is your name? 
+(Please respond with the name you will appear on the ballot as. If you are more known by another name, you can place that name in parentheses afterwards.
+Example: "u/example (Chairman Mao)"):</b> Who are you? Tell us about yourself. <br>`) {
+                        document.getElementById('a1').innerHTML = `<h3>Who are you? Tell us about yourself.</h3><center><em>No responses yet.</em></center>`;
+                        document.getElementById('a2').innerHTML = `<h3>What is your flagship legislation/primary legislative goal?</h3><center><em>No responses yet.</em></center>`;
+                        document.getElementById('a3').innerHTML = `<h3>What changes to our economic system do you support?</h3><center><em>No responses yet.</em></center>`;
+                        document.getElementById('a4').innerHTML = `<h3>What are your views on foreign policy (ex. VoD relations)?</h3><center><em>No responses yet.</em></center>`;
+                        document.getElementById('a5').innerHTML = `<h3>Why are you the best person for the job?</h3><center><em>No responses yet.</em></center>`;
+                    }
+                }
+            });      
+        };
+    </script>
+</div>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Opinion: The Economy: How We Move Forward</title>
         <author>
