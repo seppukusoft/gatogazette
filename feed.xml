@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-01-31T12:11:25-05:00</updated>
+    <updated>2025-01-31T12:51:52-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -44,13 +44,40 @@
   <p>
     The responses to the survey will be updated below live, as they are received:
   </p>
-<div>    <div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
+<div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
     <div id="a2"><h3>What is your flagship legislation/primary legislative goal?</h3></div>
     <div id="a3"><h3>What changes to our economic system do you support?</h3></div>
     <div id="a4"><h3>What are your views on foreign policy (ex. VoD relations)?</h3></div>
     <div id="a5"><h3>Why are you the best person for the job?</h3></div>
     <style>
     h3, em {text-align: center;}
+
+    .collapsible {
+        background-color: #777;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: none;
+        text-align: center;
+        outline: none;
+        font-size: 15px;
+    }
+
+    .active, .collapsible:hover {
+        background-color: #555;
+    }
+
+    .coll-text {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        border-radius: 30px;
+        color: black;
+        background-color: #f1f1f1;
+        max-height: 0;
+        transition: max-height 0.2s ease-out;
+    }
     </style>
     <script>
         let SHEET_ID = '16vRxd9MYg_VV8_wTMA7-sqVbYQT4H2o4YQhOmD867Aw';
@@ -69,11 +96,26 @@
                     a3 = data.table.rows[i].c[4].v;
                     a4 = data.table.rows[i].c[5].v;
                     a5 = data.table.rows[i].c[6].v;
-                    document.getElementById('a1').innerHTML += `<b>${name}:</b> ${a1}<br>`;
-                    document.getElementById('a2').innerHTML += `<b>${name}:</b> ${a2}<br>`;
-                    document.getElementById('a3').innerHTML += `<b>${name}:</b> ${a3}<br>`;
-                    document.getElementById('a4').innerHTML += `<b>${name}:</b> ${a4}<br>`;
-                    document.getElementById('a5').innerHTML += `<b>${name}:</b> ${a5}<br>`;
+                    document.getElementById('a1').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                    <div class="coll-text">
+  <p>${a1}</p><br>
+</div>`;
+                    document.getElementById('a2').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                    <div class="coll-text">
+  <p>${a2}</p><br>
+</div>`;
+                    document.getElementById('a3').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                    <div class="coll-text">
+  <p>${a3}</p><br>
+</div>`;
+                    document.getElementById('a4').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                    <div class="coll-text">
+  <p>${a4}</p><br>
+</div>`;
+                    document.getElementById('a5').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                    <div class="coll-text">
+  <p>${a5}</p><br>
+</div>`;
                     if (document.getElementById('a1').innerHTML == `<h3>Who are you? Tell us about yourself.</h3><b>What is your name? 
 (Please respond with the name you will appear on the ballot as. If you are more known by another name, you can place that name in parentheses afterwards.
 Example: "u/example (Chairman Mao)"):</b> Who are you? Tell us about yourself. <br>`) {
@@ -83,6 +125,21 @@ Example: "u/example (Chairman Mao)"):</b> Who are you? Tell us about yourself. <
                         document.getElementById('a4').innerHTML = `<h3>What are your views on foreign policy (ex. VoD relations)?</h3><center><em>No responses yet.</em></center>`;
                         document.getElementById('a5').innerHTML = `<h3>Why are you the best person for the job?</h3><center><em>No responses yet.</em></center>`;
                     }
+                }
+                var coll = document.getElementsByClassName("collapsible");
+
+                for (i = 0; i < coll.length; i++) {
+                    coll[i].addEventListener("click", function() {
+                        this.classList.toggle("active");
+                        var content = this.nextElementSibling;
+                        if (content.style.display === "block") {
+                        content.style.display = "none";
+                        content.style.maxHeight = null;
+                        } else {
+                        content.style.display = "block";
+                        content.style.maxHeight = content.scrollHeight + "px";
+                        }
+                    });
                 }
             });      
         };
