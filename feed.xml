@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-02-12T21:55:20-05:00</updated>
+    <updated>2025-02-12T22:10:09-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -48,7 +48,7 @@
     <div id="a2"><h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3></div>
     <div id="a3"><h3>If you could only pass a single bill, what would that bill address?</h3></div>
     <div id="a4"><h3>What do you think is the most important quality or character trait for a senator?</h3></div>
-    <div id="a5"><h3>Why should someone rank you at the top their ballot?
+    <div id="a5"><h3>Why should someone rank you at the top their ballot?</h3></div>
     <style>
     h3, em {text-align: center;}
 
@@ -82,68 +82,69 @@
     <script>
         let SHEET_ID = '1p7wvdWb7MOXX5FdSt-jwhPgrsPXUvdyx6zr9zWzmvDI';
         let SHEET_TITLE = 'Form Responses 1';
-        let RANGE = 'A1:G29';
+        let RANGE = 'A2:G29';
         let FULL_URL = (`https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?sheet=${SHEET_TITLE}&range=${RANGE}`);
+        
         window.onload = (event) => {
           fetch(FULL_URL)
             .then(res => res.text())
             .then(rep => {
-                let data = JSON.parse(rep.substr(47).slice(0, -2));
-                for (let i = 0; i < data.table.rows.length; i++) {
-                    name = data.table.rows[i].c[1].v;
-                    a1 = data.table.rows[i].c[2].v;
-                    a2 = data.table.rows[i].c[3].v;
-                    a3 = data.table.rows[i].c[4].v;
-                    a4 = data.table.rows[i].c[5].v;
-                    a5 = data.table.rows[i].c[6].v;
-                    document.getElementById('a1').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
-                    <div class="coll-text">
-  <p>${a1}</p><br>
-</div>`;
-                    document.getElementById('a2').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
-                    <div class="coll-text">
-  <p>${a2}</p><br>
-</div>`;
-                    document.getElementById('a3').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
-                    <div class="coll-text">
-  <p>${a3}</p><br>
-</div>`;
-                    document.getElementById('a4').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
-                    <div class="coll-text">
-  <p>${a4}</p><br>
-</div>`;
-                    document.getElementById('a5').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
-                    <div class="coll-text">
-  <p>${a5}</p><br>
-</div>`;
-                    if (document.getElementById('a1').innerHTML == `<h3>Who are you? Tell us about yourself.</h3><b>What is your name? 
-(Please respond with the name you will appear on the ballot as. If you are more known by another name, you can place that name in parentheses afterwards.
-Example: "u/example (Chairman Mao)"):</b> Who are you? Tell us about yourself. <br>`) {
-                        document.getElementById('a1').innerHTML = `<h3>Who are you? Tell us about yourself.</h3><center><em>No responses yet.</em></center>`;
-                        document.getElementById('a2').innerHTML = `<h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3><center><em>No responses yet.</em></center>`;
-                        document.getElementById('a3').innerHTML = `<h3>If you could only pass a single bill, what would that bill address?</h3><center><em>No responses yet.</em></center>`;
-                        document.getElementById('a4').innerHTML = `<h3>What do you think is the most important quality or character trait for a senator?</h3><center><em>No responses yet.</em></center>`;
-                        document.getElementById('a5').innerHTML = `<h3>Why should someone rank you at the top their ballot?</h3><center><em>No responses yet.</em></center>`;
-                    }
-                }
-                var coll = document.getElementsByClassName("collapsible");
-
-                for (i = 0; i < coll.length; i++) {
-                    coll[i].addEventListener("click", function() {
-                        this.classList.toggle("active");
-                        var content = this.nextElementSibling;
-                        if (content.style.display === "block") {
-                        content.style.display = "none";
-                        content.style.maxHeight = null;
-                        } else {
-                        content.style.display = "block";
-                        content.style.maxHeight = content.scrollHeight + "px";
-                        }
-                    });
-                }
-            });      
+              let data = JSON.parse(rep.substr(47).slice(0, -2));
+              for (let i = 0; i < data.table.rows.length; i++) {
+                let name = data.table.rows[i].c[1].v;
+                let a1 = data.table.rows[i].c[2].v;
+                let a2 = data.table.rows[i].c[3].v;
+                let a3 = data.table.rows[i].c[4].v;
+                let a4 = data.table.rows[i].c[5].v;
+                let a5 = data.table.rows[i].c[6].v;
+                
+                document.getElementById('a1').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a1}</p><br>
+                </div>`;
+                document.getElementById('a2').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a2}</p><br>
+                </div>`;
+                document.getElementById('a3').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a3}</p><br>
+                </div>`;
+                document.getElementById('a4').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a4}</p><br>
+                </div>`;
+                document.getElementById('a5').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a5}</p><br>
+                </div>`;
+              }
+      
+              if (data.table.rows.length === 0) {
+                document.getElementById('a1').innerHTML = `<h3>Who are you? Tell us about yourself.</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a2').innerHTML = `<h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a3').innerHTML = `<h3>If you could only pass a single bill, what would that bill address?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a4').innerHTML = `<h3>What do you think is the most important quality or character trait for a senator?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a5').innerHTML = `<h3>Why should someone rank you at the top their ballot?</h3><center><em>No responses yet.</em></center>`;
+              }
+      
+              var coll = document.getElementsByClassName("collapsible");
+              for (let i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                  this.classList.toggle("active");
+                  var content = this.nextElementSibling;
+                  if (content.style.display === "block") {
+                    content.style.display = "none";
+                    content.style.maxHeight = null;
+                  } else {
+                    content.style.display = "block";
+                    content.style.maxHeight = content.scrollHeight + "px";
+                  }
+                });
+              }
+            });
         };
-    </script>
+      </script>
 </div>
 <hr class="separator separator--long-line" />
 <div><h4>Share article:</h4>
