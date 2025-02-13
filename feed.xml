@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-02-12T22:23:14-05:00</updated>
+    <updated>2025-02-12T22:30:03-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -48,7 +48,7 @@
     <div id="a2"><h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3></div>
     <div id="a3"><h3>If you could only pass a single bill, what would that bill address?</h3></div>
     <div id="a4"><h3>What do you think is the most important quality or character trait for a senator?</h3></div>
-    <div id="a5"><h3>Why should someone rank you at the top their ballot?</h3></div>
+    <div id="a5"><h3>Why should someone rank you at the top of their ballot?</h3></div>
     <style>
     h3, em {text-align: center;}
 
