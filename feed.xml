@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-02-25T01:04:57-05:00</updated>
+    <updated>2025-02-25T01:08:03-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -52,10 +52,21 @@
 <br> 
 <div class="flourish-embed flourish-cards" data-src="visualisation/21800071"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img decoding="async" loading="lazy" src="https://public.flourish.studio/visualisation/21800071/thumbnail" width="100%" alt="cards visualization"  data-is-external-image="true"></noscript></div>
 </div>
+<div><script>
+    document.addEventListener('DOMContentLoaded', () => {
+    const elements = document.querySelectorAll('.flourish-credit');
+    elements.forEach(element => {
+    element.remove();
+    });
 
-  <p>
-    
-  </p>
+    const h1 = document.querySelector('h1');
+    h1.innerHTML = h1.innerHTML.replace('Poll', '<span class="o">Poll</span>');
+    });
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</div>
 
   <p>
     
