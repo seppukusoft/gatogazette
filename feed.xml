@@ -3,12 +3,78 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-02-22T01:37:25-05:00</updated>
+    <updated>2025-02-25T01:04:57-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
     <id>https://gatogazette.com</id>
 
+    <entry>
+        <title>🔴LIVE UPDATES: TIDE Announces Radical Plan for SimDemocracy</title>
+        <author>
+            <name>Gato</name>
+        </author>
+        <link href="https://gatogazette.com/live-updates-tide/"/>
+        <id>https://gatogazette.com/live-updates-tide/</id>
+        <media:content url="https://gatogazette.com/media/posts/28/Screenshot-2025-02-25-002126-2.png" medium="image" />
+            <category term="Politics"/>
+
+        <updated>2025-02-24T22:27:11-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/28/Screenshot-2025-02-25-002126-2.png" alt="" />
+                    This is a live-updating thread of analysis of TIDE's recently published policy documents and the resulting fallout.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/28/Screenshot-2025-02-25-002126-2.png" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/28/Screenshot-2025-02-25-002126.png" height="77" width="448" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-xs.png 640w ,https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-sm.png 768w ,https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-md.png 1024w ,https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-lg.png 1366w ,https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-xl.png 1600w ,https://gatogazette.com/media/posts/28/responsive/Screenshot-2025-02-25-002126-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    This is a live-updating thread of analysis of TIDE's recently published policy documents and the resulting fallout.
+  </p>
+<div><style>
+.sub {
+  position: fixed;
+  top: 25%;
+  left: 58%;
+}
+.r {
+    color: red;
+}
+</style>
+<button class="sub" onClick="window.location.reload();window.scrollTo(0, 0);">Check for updates</button>
+<br> 
+<div class="flourish-embed flourish-cards" data-src="visualisation/21800071"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img decoding="async" loading="lazy" src="https://public.flourish.studio/visualisation/21800071/thumbnail" width="100%" alt="cards visualization"  data-is-external-image="true"></noscript></div>
+</div>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Interview with TIDE Chairman ready2endrose</title>
         <author>
@@ -1496,183 +1562,6 @@ navigator.clipboard.writeText(url).then(function() {
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Results: 133rd Senate Approval Poll</title>
-        <author>
-            <name>Gato</name>
-        </author>
-        <link href="https://gatogazette.com/results-133rd-senate-approval-poll/"/>
-        <id>https://gatogazette.com/results-133rd-senate-approval-poll/</id>
-        <media:content url="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" medium="image" />
-            <category term="Polling"/>
-            <category term="Politics"/>
-
-        <updated>2025-01-23T22:01:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" alt="" />
-                    I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)! The poll was conducted by asking respondents to indicate approval, disapproval, or neutrality/unfamiliarity with each of the 13 current senators. After&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)!
-  </p>
-
-  <p>
-    The poll was conducted by asking respondents to indicate approval, disapproval, or neutrality/unfamiliarity with each of the 13 current senators. After collecting 25 responses, the data was weighted to match the current party distribution (based on the data found <a href="https://discord.com/channels/554769523635650580/1028627919993585745/1331761906024976477" target="_blank" class="extlink extlink-icon-1"  >here</a>).
-  </p>
-
-  <p>
-    The numbers below represent the net approval ratings of each senator:
-  </p>
-
-  <p class="align-center">
-    <b><u>Most Popular Senators</u></b><br>1. Sen. Ppatpat (C): <b>+55.7%</b><br>2. Sen. Muggy (Ind): <b>+51.1%</b><br>3. Sen. MyPenJustBroke (NPP): <b>+49.8%</b><br>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p class="align-center">
-    <b><u>Least Popular Senators
-</u></b><br>1. Sen. Lucas (Ind/SDNP): <b>-34.6%
-</b><br>2. Sen. Kelvin (FBP): <b>-19.5%
-</b><br>3. Sen. Milk (SDNP): <b>-16.7%</b><br>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p class="align-center">
-    <b><u>Other Senators</u></b> (highest to lowest)
-<br>1. Sen. Aerospace Enjoyer (LP): <b>+44.4%
-</b><br>2. Sen. Niko Belic (C): <b>+34.6%
-</b><br>3. Sen. Stalin (NPP): <b>+29.2%
-</b><br>4. Sen. Cheez (LP): <b>+12.5%
-</b><br>5. Sen. Eleanor (QQQ): <b>+10.5%
-</b><br>6. Sen. AI Philosophy (SPQR): <b>+7.9%
-</b><br>7. Sen. Dylan (USL): <b>+7.8%</b>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="4">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2.png" data-size="600x369">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2-thumbnail.png" height="369" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    The results show that the senators generally have positive reputations; all but the three least popular senators have a <b>disapproval rate of less than 15%</b>.
-  </p>
-
-  <p>
-    The <b>average approval rate was 31.5%</b> and the <b>average disapproval rate was 13.6%</b>, making the <b>average net approval rate</b> for the current Senate <b>+17.9%</b>.
-  </p>
-
-  <p>
-    This data does show that a great deal of people are either unaware of certain senators or neutral in their opinions. The average response rate of "Neutral/Unsure" is 54.9%; unsurprisingly, the senators who received the least of that response were those at the extremes, such as Sens. Ppatpat (C) and Kelvin (FBP), but it should be noted that Sens. Cheez (LP), Eleanor (QQQ), AI Philosophy (SPQR), and Dylan (USL) have neutral response rates of <b>over 65%</b>, with Sen. Eleanor being the most neutral/obscure senator with <b>nearly 75%</b> of respondents choosing that option for her.
-  </p>
-
-  <p>
-    In short, while the majority of senators are popular and have net approval ratings, most need to expand their profiles across the voter base or improve their reputations to improve them beyond neutrality.
-  </p>
-<pre class=" language-html"><code>*This poll was sponsored by Ppatpat, who paid for the poll to be conducted but had no influence on the data collection, results, or this report.
-</code></pre>
-<div><h4>Share article:</h4>
-<center>
-<button onclick="copyURL()">Copy link</button>
-<script>
-function copyURL() {
- let url = document.location.href
-navigator.clipboard.writeText(url).then(function() {
-    console.log('Copied!');
-}, function() {
-    console.log('Copy error')
-});
-}
-</script>
-</center>
-<span></span>
-<br>
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
