@@ -3,12 +3,176 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-02-22T01:37:25-05:00</updated>
+    <updated>2025-02-28T03:42:40-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
     <id>https://gatogazette.com</id>
 
+    <entry>
+        <title>136th Senate Candidates Survey</title>
+        <author>
+            <name>Gato</name>
+        </author>
+        <link href="https://gatogazette.com/136th-senate-candidates-survey/"/>
+        <id>https://gatogazette.com/136th-senate-candidates-survey/</id>
+        <media:content url="https://gatogazette.com/media/posts/30/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" medium="image" />
+            <category term="Politics"/>
+            <category term="Interview"/>
+            <category term="Election"/>
+
+        <updated>2025-02-28T03:37:14-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/30/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" alt="" />
+                    We wanted to provide the public with an opportunity to hear directly from the candidates in a single, centralized location, so we sent a five-question survey to every Senate candidate we could get a hold of (if you are a candidate and didn't receive a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/30/4ec65bbf3747a8f2c8c5d5d30c73-1570335.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    We wanted to provide the public with an opportunity to hear directly from the candidates in a single, centralized location, so we sent a five-question survey to every Senate candidate we could get a hold of (if you are a candidate and didn't receive a link, please contact Gato).<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/30/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2.jpg" height="696" width="1200" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-xs.jpg 640w ,https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-sm.jpg 768w ,https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-md.jpg 1024w ,https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-lg.jpg 1366w ,https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-xl.jpg 1600w ,https://gatogazette.com/media/posts/30/responsive/4ec65bbf3747a8f2c8c5d5d30c73-1570335-2-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    The responses to the survey will be updated below live, as they are received:
+  </p>
+<div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
+    <div id="a2"><h3>How do you plan to directly address the wants and needs of your constituents?</h3></div>
+    <div id="a3"><h3>What are your views on the proposed 10% income tax and the economy in general?</h3></div>
+    <div id="a4"><h3>After the economy, what should be the Senate's legislative priority?</h3></div>
+    <div id="a5"><h3>To finish, a less serious question: what is your favorite song right now?</h3></div>
+    <style>
+    h3, em {text-align: center;}
+
+    .collapsible {
+        background-color: #777;
+        color: white;
+        cursor: pointer;
+        padding: 18px;
+        width: 100%;
+        border: none;
+        text-align: center;
+        outline: none;
+        font-size: 15px;
+    }
+
+    .active, .collapsible:hover {
+        background-color: #555;
+    }
+
+    .coll-text {
+        padding: 0 18px;
+        display: none;
+        overflow: hidden;
+        border-radius: 30px;
+        color: white;
+        background-color: #707070;
+        max-height: 0;
+        transition: max-height 0.2s ease-out;
+    }
+    </style>
+    <script>
+        let SHEET_ID = '1uPVjC8rt32UmJ7a1MO2s2Tgjf03vqihdVflV-p_LP2U';
+        let SHEET_TITLE = 'Form Responses 1';
+        let RANGE = 'A2:G29';
+        let FULL_URL = (`https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?sheet=${SHEET_TITLE}&range=${RANGE}`);
+        
+        window.onload = (event) => {
+          fetch(FULL_URL)
+            .then(res => res.text())
+            .then(rep => {
+              let data = JSON.parse(rep.substr(47).slice(0, -2));
+              for (let i = 0; i < data.table.rows.length; i++) {
+                let name = data.table.rows[i].c[1].v;
+                let a1 = data.table.rows[i].c[2].v;
+                let a2 = data.table.rows[i].c[3].v;
+                let a3 = data.table.rows[i].c[4].v;
+                let a4 = data.table.rows[i].c[5].v;
+                let a5 = data.table.rows[i].c[6].v;
+                
+                document.getElementById('a1').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a1}</p><br>
+                </div>`;
+                document.getElementById('a2').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a2}</p><br>
+                </div>`;
+                document.getElementById('a3').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a3}</p><br>
+                </div>`;
+                document.getElementById('a4').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a4}</p><br>
+                </div>`;
+                document.getElementById('a5').innerHTML += `<button type="button" class="collapsible"><b>${name}</b></button>
+                <div class="coll-text">
+                  <p>${a5}</p><br>
+                </div>`;
+              }
+      
+              if (data.table.rows.length === 0) {
+                document.getElementById('a1').innerHTML = `<h3>Who are you? Tell us about yourself.</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a2').innerHTML = `<h3>How do you plan to directly address the wants and needs of your constituents?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a3').innerHTML = `<h3>What are your views on the proposed 10% income tax and the economy in general?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a4').innerHTML = `<h3>After the economy, what should be the Senate's legislative priority?</h3><center><em>No responses yet.</em></center>`;
+                document.getElementById('a5').innerHTML = `<h3>To finish, a less serious question: what is your favorite song right now?</h3><center><em>No responses yet.</em></center>`;
+              }
+      
+              var coll = document.getElementsByClassName("collapsible");
+              for (let i = 0; i < coll.length; i++) {
+                coll[i].addEventListener("click", function() {
+                  this.classList.toggle("active");
+                  var content = this.nextElementSibling;
+                  if (content.style.display === "block") {
+                    content.style.display = "none";
+                    content.style.maxHeight = null;
+                  } else {
+                    content.style.display = "block";
+                    content.style.maxHeight = content.scrollHeight + "px";
+                  }
+                });
+              }
+            });
+        };
+      </script>
+</div>
+<hr class="separator separator--long-line" />
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
+</div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Interview with TIDE Chairman ready2endrose</title>
         <author>
@@ -1496,183 +1660,6 @@ navigator.clipboard.writeText(url).then(function() {
 <script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
 <div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Results: 133rd Senate Approval Poll</title>
-        <author>
-            <name>Gato</name>
-        </author>
-        <link href="https://gatogazette.com/results-133rd-senate-approval-poll/"/>
-        <id>https://gatogazette.com/results-133rd-senate-approval-poll/</id>
-        <media:content url="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" medium="image" />
-            <category term="Polling"/>
-            <category term="Politics"/>
-
-        <updated>2025-01-23T22:01:14-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" alt="" />
-                    I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)! The poll was conducted by asking respondents to indicate approval, disapproval, or neutrality/unfamiliarity with each of the 13 current senators. After&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gatogazette.com/media/posts/4/Sen.-Ppatpat-C-2.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    I'm very excited to announce the results of the first sponsored* GatoPoll (I am interested in more opportunities, so feel free to reach out)!
-  </p>
-
-  <p>
-    The poll was conducted by asking respondents to indicate approval, disapproval, or neutrality/unfamiliarity with each of the 13 current senators. After collecting 25 responses, the data was weighted to match the current party distribution (based on the data found <a href="https://discord.com/channels/554769523635650580/1028627919993585745/1331761906024976477" target="_blank" class="extlink extlink-icon-1"  >here</a>).
-  </p>
-
-  <p>
-    The numbers below represent the net approval ratings of each senator:
-  </p>
-
-  <p class="align-center">
-    <b><u>Most Popular Senators</u></b><br>1. Sen. Ppatpat (C): <b>+55.7%</b><br>2. Sen. Muggy (Ind): <b>+51.1%</b><br>3. Sen. MyPenJustBroke (NPP): <b>+49.8%</b><br>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Ppatpat-C-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Muggy-Ind-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-MyPenJustBroke-NPP-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p class="align-center">
-    <b><u>Least Popular Senators
-</u></b><br>1. Sen. Lucas (Ind/SDNP): <b>-34.6%
-</b><br>2. Sen. Kelvin (FBP): <b>-19.5%
-</b><br>3. Sen. Milk (SDNP): <b>-16.7%</b><br>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="3">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Lucas-Ind-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Kelvin-FBP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Milk-SDNP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p class="align-center">
-    <b><u>Other Senators</u></b> (highest to lowest)
-<br>1. Sen. Aerospace Enjoyer (LP): <b>+44.4%
-</b><br>2. Sen. Niko Belic (C): <b>+34.6%
-</b><br>3. Sen. Stalin (NPP): <b>+29.2%
-</b><br>4. Sen. Cheez (LP): <b>+12.5%
-</b><br>5. Sen. Eleanor (QQQ): <b>+10.5%
-</b><br>6. Sen. AI Philosophy (SPQR): <b>+7.9%
-</b><br>7. Sen. Dylan (USL): <b>+7.8%</b>
-  </p>
-
-  <div  class="gallery-wrapper gallery-wrapper--full">
-    <div class="gallery" data-columns="4">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Aerospace-Enjoyer-LP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Niko-Belic-C-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Stalin-NPP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Cheez-LP-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Eleanor-QQQ-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2.png" data-size="600x369">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-AI-Philosophy-SPQR-2-thumbnail.png" height="369" width="600" alt="" >
-      </a>
-      
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2.png" data-size="600x371">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/4/gallery/Sen.-Dylan-USL-2-thumbnail.png" height="371" width="600" alt="" >
-      </a>
-      
-    </figure>
-    </div>
-  </div>
-
-  <p>
-    The results show that the senators generally have positive reputations; all but the three least popular senators have a <b>disapproval rate of less than 15%</b>.
-  </p>
-
-  <p>
-    The <b>average approval rate was 31.5%</b> and the <b>average disapproval rate was 13.6%</b>, making the <b>average net approval rate</b> for the current Senate <b>+17.9%</b>.
-  </p>
-
-  <p>
-    This data does show that a great deal of people are either unaware of certain senators or neutral in their opinions. The average response rate of "Neutral/Unsure" is 54.9%; unsurprisingly, the senators who received the least of that response were those at the extremes, such as Sens. Ppatpat (C) and Kelvin (FBP), but it should be noted that Sens. Cheez (LP), Eleanor (QQQ), AI Philosophy (SPQR), and Dylan (USL) have neutral response rates of <b>over 65%</b>, with Sen. Eleanor being the most neutral/obscure senator with <b>nearly 75%</b> of respondents choosing that option for her.
-  </p>
-
-  <p>
-    In short, while the majority of senators are popular and have net approval ratings, most need to expand their profiles across the voter base or improve their reputations to improve them beyond neutrality.
-  </p>
-<pre class=" language-html"><code>*This poll was sponsored by Ppatpat, who paid for the poll to be conducted but had no influence on the data collection, results, or this report.
-</code></pre>
-<div><h4>Share article:</h4>
-<center>
-<button onclick="copyURL()">Copy link</button>
-<script>
-function copyURL() {
- let url = document.location.href
-navigator.clipboard.writeText(url).then(function() {
-    console.log('Copied!');
-}, function() {
-    console.log('Copy error')
-});
-}
-</script>
-</center>
-<span></span>
-<br>
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
