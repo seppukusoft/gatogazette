@@ -3,12 +3,114 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-03-01T01:17:26-05:00</updated>
+    <updated>2025-03-07T02:20:34-05:00</updated>
     <author>
         <name>Gato</name>
     </author>
     <id>https://gatogazette.com</id>
 
+    <entry>
+        <title>Short Report: Term Extension Poll</title>
+        <author>
+            <name>Gato</name>
+        </author>
+        <link href="https://gatogazette.com/short-report-term-extension-poll/"/>
+        <id>https://gatogazette.com/short-report-term-extension-poll/</id>
+        <media:content url="https://gatogazette.com/media/posts/34/42747309245_1f7fbf6419_o-2.jpg" medium="image" />
+            <category term="Polling"/>
+            <category term="Politics"/>
+            <category term="Election"/>
+
+        <updated>2025-03-06T22:12:53-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/34/42747309245_1f7fbf6419_o-2.jpg" alt="" />
+                    The current electoral system on SimDemocracy involves 2-week terms for the Senate and presidency, with elections on alternating weeks. Even without random by-elections, Minecraft Governor elections, and more, there is (at minimum) one election every week, with as many as 40 candidates on the ballot.&nbsp;&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/34/42747309245_1f7fbf6419_o-2.jpg" class="type:primaryImage" alt="" /></p>
+                
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/34/42747309245_1f7fbf6419_o.jpg" height="756" width="1501" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-xs.jpg 640w ,https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-sm.jpg 768w ,https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-md.jpg 1024w ,https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-lg.jpg 1366w ,https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-xl.jpg 1600w ,https://gatogazette.com/media/posts/34/responsive/42747309245_1f7fbf6419_o-2xl.jpg 1920w">
+      
+    </figure>
+
+  <p>
+    The current electoral system on SimDemocracy involves 2-week terms for the Senate and presidency, with elections on alternating weeks. Even without random by-elections, Minecraft Governor elections, and more, there is (at minimum) one election every week, with as many as 40 candidates on the ballot.&nbsp;
+  </p>
+
+  <p>
+    While this level of participation is certainly a sign of a healthy system, many people have expressed concern over voter fatigue and overworking Syndicality, our Elections Supervisor. Those fears are not unfounded; the number of voters participating in each election has been steadily decreasing and Syndicality has begun looking for help, especially after the 135th Senate had two by-elections in just as many days after the main election.
+  </p>
+
+  <p>
+    Many have also complained about the constant campaigning necessary in the current system which leads to users being inundated with ads.
+  </p>
+
+  <p>
+    To remedy those issues, some have suggestions extending the terms for those positions from 2 weeks to 4, putting us on a 2-week alternating schedule that allows for more time to set up ballots and some downtime from campaigning.
+  </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
+
+  <p>
+    To see how popular such a system would be, we administered a sponsored poll that separately asked respondents whether they would support a 4-week term for the presidency and Senate.
+  </p>
+
+  <div  class="gallery-wrapper gallery-wrapper--wide">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://gatogazette.com/media/posts/34/gallery/Do-you-support-extending-each-presidential-term-to-4-weeks-from-the-current-2_.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/34/gallery/Do-you-support-extending-each-presidential-term-to-4-weeks-from-the-current-2_-thumbnail.png" height="371" width="600" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://gatogazette.com/media/posts/34/gallery/Do-you-support-extending-each-senatorial-term-to-4-weeks-from-the-current-2_.png" data-size="600x371">
+        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/34/gallery/Do-you-support-extending-each-senatorial-term-to-4-weeks-from-the-current-2_-thumbnail.png" height="371" width="600" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    The results were surprising; while support for extending the presidential term was nearly equal to opposition to the plan, a slight majority of respondents (52.8%) are against the extension.&nbsp;
+  </p>
+
+  <p>
+    in contrast, the public is somewhat more against extending senators' terms to 4 weeks, with 59% of respondents expressing opposition.
+  </p>
+
+  <p>
+    Both results show that SimDem is pretty neatly divided on the issue of extending these terms and it may come down to campaigning for either side to tip the scales.
+  </p>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The 136th Senate Candidates Playlist</title>
         <author>
@@ -41,10 +143,29 @@
   </p>
 <div><div class="post__iframe"><iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7bV5QOUARbpu7gwyQt15Xn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 </div>
-
-  <p>
-    
-  </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
@@ -85,6 +206,11 @@
   </p>
 <div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
     <div id="a2"><h3>How do you plan to directly address the wants and needs of your constituents?</h3></div>
+    <hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr>
     <div id="a3"><h3>What are your views on the proposed 10% income tax and the economy in general?</h3></div>
     <div id="a4"><h3>After the economy, what should be the Senate's legislative priority?</h3></div>
     <div id="a5"><h3>To finish, a less serious question: what is your favorite song right now?</h3></div>
@@ -280,6 +406,11 @@ The interview transcript has been edited for grammar and pacing, but is otherwis
   <p>
     Same person.
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
   <p>
     <b>What is your evidence for that accusation?</b>
@@ -343,6 +474,11 @@ The interview continues below the images.</code></pre>
   <p>
     TIDE*, and we consider association / membership to ROSE / QQQ opposition to our movement, which is why the list was compiled so immediately as we already were aware of some members / associates.
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
   <p>
     <b>Since the party's name changed mid-interview, could you explain the meaning of the TIDE acronym?</b>
@@ -426,6 +562,11 @@ navigator.clipboard.writeText(url).then(function() {
   </p>
 <div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
     <div id="a2"><h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3></div>
+    <hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr>
     <div id="a3"><h3>If you could only pass a single bill, what would that bill address?</h3></div>
     <div id="a4"><h3>What do you think is the most important quality or character trait for a senator?</h3></div>
     <div id="a5"><h3>Why should someone rank you at the top of their ballot?</h3></div>
@@ -619,6 +760,11 @@ navigator.clipboard.writeText(url).then(function() {
   <p>
     A note for the reader before we get started: Senator FLY GUY’s switch from an independent candidate to the New People’s Party after the 134th Senate Election left many asking where he should be sorted. So, as an amazing example of compromise in the democratic process, I unilaterally decided to include charts and rankings that outline the bill proposals which account for FLY GUY being both an Independent and an NPP Senator.&nbsp;
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
     <h6 id="sen-mypenjustbroke-npp-735-net-approval">
       Sen. MyPenJustBroke (NPP) – 73.5% Net Approval
@@ -708,6 +854,11 @@ navigator.clipboard.writeText(url).then(function() {
   <p>
     Thyme was elected after the CTSA-spurred certification of the 134th Senate election and – like Senator Olive – is likely still in a honeymoon approval phase, though possibly for different reasons. Thyme is an avid debater in all matters and questions every nominee or bill proposal. Even if she is a freshman Senator, she has made her mark in debate.&nbsp;<br>
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
     <h6 id="sen-fly-guy-ind-327-net-approval">
       Sen. FLY GUY (Ind) – 32.7% Net Approval
@@ -913,6 +1064,11 @@ document.addEventListener('DOMContentLoaded', () => {
   <p>
     Two of them were independents who had zero support and weren't even in the Discord server (<a href="https://www.reddit.com/r/SimDemocracy/comments/1iiiybf/comment/mbf80hy/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button"  class="extlink extlink-icon-1"  >one of them</a> even falsely claimed that former Senator Muggy was part of their non-existent party). When it comes down to it, there were only 3 candidates that had any chance; therein lies the most concerning part of this election cycle:
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
   <p>
     <b>All three candidates were essentially a front for the incumbent administration.</b>
@@ -961,6 +1117,11 @@ document.addEventListener('DOMContentLoaded', () => {
   <p>
     In presidential elections, however, there can only be one winner; coalitions here are far less strictly ideological and more strategic. To that end, each party in TLC saw the coalition as beneficial and the Creative-Imade ticket as at least "good enough," so the plan was set. In fact, I'd argue that as soon as any two of the four parties joined forces, the decision to either join in or form an opposing coalition became necessary in order for any other party to guarantee a chance that their voice would be heard in the new administration.
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
   <p>
     <b>So was this inevitable? Under our current laws, yes.</b>
@@ -1055,6 +1216,11 @@ navigator.clipboard.writeText(url).then(function() {
   </p>
 <div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
     <div id="a2"><h3>What would you say is the primary issue/goal of your campaign?</h3></div>
+    <hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr>
     <div id="a3"><h3>If elected, what would you change in the executive branch? What would you change in the server as a whole?</h3></div>
     <div id="a4"><h3>What are your views on foreign policy (ex. VoD relations)?</h3></div>
     <div id="a5"><h3>Why are you the best person for the job?</h3></div>
@@ -1221,6 +1387,11 @@ navigator.clipboard.writeText(url).then(function() {
   </p>
 <div><div id="a1"><h3>Who are you? Tell us about yourself.</h3></div>
     <div id="a2"><h3>If you are an incumbent, why do you think you should get another term? If not, what do you bring to the table that the incumbents don't?</h3></div>
+    <hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr>
     <div id="a3"><h3>If you could only pass a single bill, what would that bill address?</h3></div>
     <div id="a4"><h3>What do you think is the most important quality or character trait for a senator?</h3></div>
     <div id="a5"><h3>Why should someone rank you at the top their ballot?</h3></div>
@@ -1399,6 +1570,11 @@ First of all, I believe it is important to leave any dogmatic, strict ideologica
   <p>
     Most new governments complain about their inheritance and how the books aren’t balanced or the general state of things. However, when I got into the backend of the Treasury, I quickly discovered that there was no inheritance. At all. All the businesses and all the spending that the government had conducted for months were being entirely unaccounted for. We quite simply had no records. This is not only a disgrace for the former administration but it left me and the other workers within the Treasury to spend countless hours making spreadsheets, tracking down data, and registering every single business into proper government files.<br>
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
   <p>
     On top of this, I became ill the next week and I simply didn’t have time to fulfill the demanding role of creating and keeping spreadsheets up to date, registering new business accounts, handing out government stipends, and also fulfilling our full economic plan (which we released around that time). So, I resigned in an attempt to get out of the way and allow Imade to push forward with the agenda; sadly, this move hasn’t been as effective as I'd thought.<br>
@@ -1422,146 +1598,6 @@ First of all, I believe it is important to leave any dogmatic, strict ideologica
 
   <p>
     We must go further and I believe, under Imade’s presidency and with hard-working senators, we can achieve the change we need.<br>
-  </p>
-<hr class="separator separator--long-line" />
-<div><h4>Share article:</h4>
-<center>
-<button onclick="copyURL()">Copy link</button>
-<script>
-function copyURL() {
- let url = document.location.href
-navigator.clipboard.writeText(url).then(function() {
-    console.log('Copied!');
-}, function() {
-    console.log('Copy error')
-});
-}
-</script>
-</center>
-<span></span>
-<br>
-<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
-<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Joint Interview: Pres. Imade and VP Tripod</title>
-        <author>
-            <name>Gato</name>
-        </author>
-        <link href="https://gatogazette.com/joint-interview-pres-imade-and-vp-tripod/"/>
-        <id>https://gatogazette.com/joint-interview-pres-imade-and-vp-tripod/</id>
-        <media:content url="https://gatogazette.com/media/posts/14/a43e752ef8cf68ddd258e821fd3d6c16.png" medium="image" />
-            <category term="Politics"/>
-            <category term="Interview"/>
-            <category term="Election"/>
-
-        <updated>2025-01-28T19:55:12-05:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://gatogazette.com/media/posts/14/a43e752ef8cf68ddd258e821fd3d6c16.png" alt="" />
-                    President Imade and their running mate, VP Tripod, secured a second term just two short days ago, winning against recurring independent rival Creative. As the first successful re-election bid in the post-video era of SimDemocracy, we sat down with both of them for a joint&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://gatogazette.com/media/posts/14/a43e752ef8cf68ddd258e821fd3d6c16.png" class="type:primaryImage" alt="" /></p>
-                
-  <p>
-    President Imade and their running mate, VP Tripod, secured a second term just two short days ago, winning against recurring independent rival Creative. As the first successful re-election bid in the post-video era of SimDemocracy, we sat down with both of them for a joint interview to learn more about their goals, thoughts, and future prospects.
-  </p>
-
-  <div  class="gallery-wrapper">
-    <div class="gallery" data-columns="2">
-      <figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/14/gallery/a43e752ef8cf68ddd258e821fd3d6c16.png" data-size="571x571">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/14/gallery/a43e752ef8cf68ddd258e821fd3d6c16-thumbnail.png" height="571" width="571" alt="President Imade's profile picture." >
-      </a>
-      <figcaption>President Imade's profile picture.</figcaption>
-    </figure><figure class="gallery__item">
-      <a href="https://gatogazette.com/media/posts/14/gallery/1a6a2e01677907b3f25b3dabe1fb67d2.png" data-size="1024x1024">
-        <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/14/gallery/1a6a2e01677907b3f25b3dabe1fb67d2-thumbnail.png" height="720" width="720" alt="Vice President Tripod's profile picture." >
-      </a>
-      <figcaption>Vice President Tripod's profile picture.</figcaption>
-    </figure>
-    </div>
-  </div>
-<hr class="separator separator--dots" />
-<pre id="test" class="line-numbers  language-html"><code>The interview transcript has been edited for grammar and pacing, but is otherwise unedited.</code></pre>
-
-    <h5 id="why-did-you-both-decide-to-run-for-re-election" class="align-center">
-      Why did you both decide to run for re-election?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u>&nbsp;</b>To #FINISHTHEJOB&nbsp;🫡<br>But also because I enjoyed the term and felt my first term was overshadowed by certain events. I feel with a first term that was super successful despite being held back at times, imagine what could be accomplished in a second term. Also, I wanted to finish my promises in regards to activity and economy.<br>
-  </p>
-
-  <p>
-    <b><u>Tripod:</u>&nbsp;</b>I feel like we had a great momentum going during the first term, and we also had some unfinished business to take care of, so why not?
-  </p>
-
-    <h5 id="what-do-each-of-you-see-as-your-role-in-the-administration" class="align-center">
-      What do each of you see as your role in the administration?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u></b> I am a leader and leaders lead, but mainly to guide cabinet members in their jobs and to ensure my agenda is implemented, along with maintaining a simulation that's fun for everyone and a safe space for all.
-  </p>
-
-  <p>
-    <b><u>Tripod:</u>&nbsp;</b>As Vice President, I'm not currently doing much, but my duties as acting SDBI Director have me patrolling the streets of SimDem and stopping crime in its tracks.<br>
-<br>Mostly hate crimes, but hey, what can you do?<br><br>I also like to check in on the Cabinet and make sure they're doing their jobs. I like to hold government officials accountable for their actions.<br>
-  </p>
-
-    <h5 id="what-are-three-words-you-would-use-to-describe-yourself" class="align-center">
-      What are three words you would use to describe yourself?
-    </h5>
-
-  <p>
-    <b style=""><u>Tripod:</u>&nbsp;</b>Decisive, rational, and wise.<br><br><b><u>Imade:</u></b>&nbsp;Determined, motivated, and BASED.<br>
-  </p>
-
-    <h5 id="president-imade-what-would-you-say-is-your-main-policy-goal-for-the-upcoming-term" class="align-center">
-      President Imade, what would you say is your main policy goal for the upcoming term?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u>&nbsp;</b>It's hard to pinpoint since I have a broad agenda I want to initiate. I would say definitely bringing order to the economy and actually working to make it relevant. I am also pursuing justice reform, but I have tasked this mainly to others within the administration as I recognise my personal views on these matters may bring conflict of interest as, for example, I am currently representing clients in court, etc.
-  </p>
-
-    <h5 id="vice-president-tripod-you-recently-left-the-party-you-shared-with-pres-imade-usl-in-favor-of-joining-the-newly-formed-simdem-communist-party-scp-has-this-affected-your-relationship-with-the-president-and-does-it-mean-your-priorities-as-vp-will-change-in-line-with-scp-policy" class="align-center">
-      Vice President Tripod, you recently left the party you shared with Pres. Imade (USL) in favor of joining the newly-formed SimDem Communist Party (SCP). Has this affected your relationship with the president and does it mean your priorities as VP will change in line with SCP policy?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u>&nbsp;</b>I will let Tripod mainly answer this, but honestly I originally chose Tripod as my VP when she wasn't in the USL and the deal was always that her party would not in the least affect our relationship. I represent the SDPB as President, not the USL; that has always been my position as well.<br><br><b><u>Tripod:</u>&nbsp;</b>Well, like Mx. President said, I was not a member of the USL when I accepted the nomination to be Imade's running mate. My relationship with Imade is unchanged and as for my priorities, my priorities will always be to support Imade while they execute the duties of their office until they are unable to do so.<br>
-  </p>
-
-    <h5 id="in-the-most-recent-elections-runoff-stage-you-faced-the-same-candidate-as-last-time-creative-although-you-won-re-election-the-margin-was-closer-than-the-previous-election-what-does-that-mean-to-you-in-your-second-term-and-what-message-would-you-like-to-send-to-creative-voters" class="align-center">
-      In the most recent election's runoff stage, you faced the same candidate as last time: Creative. Although you won re-election, the margin was closer than the previous election; what does that mean to you in your second term and what message would you like to send to Creative voters?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u></b> I would like to say the margin was not really closer percentage-wise, it just looks a lot closer because of turnout drop. However, I have known Creative for many years and have recently appointed him Attorney General, reflecting his main campaigning points of justice and SDBI-related issues and showing my commitment to recognising the platforms of my opponents.<br><br><b><u>Tripod:</u></b>&nbsp;I would like to let the Creative voters know that we see you and we hear you. We promise to enact policies that will benefit all of SimDem, not just the people who voted for us.<br><br>I would also like to take this time to announce my presidential bid for the next election.<br>I will be taking Creative as my VP so I hope that both the SDPB and all of Creative's voters can support us.<br>
-  </p>
-
-    <h5 id="president-imade-were-you-aware-of-this-development-and-do-you-have-any-comment-on-it" class="align-center">
-      President Imade, were you aware of this development and do you have any comment on it?
-    </h5>
-
-  <p>
-    <b><u>Imade:</u></b>&nbsp;Yes, Tripod asked if she could announce it here.&nbsp;But I will say this: I would love to run again, but the likelihood is that I would have no time to give the role the dedication it needs. I'm not ruling out running again in the coming weeks or months, but I will likely be bowing out at least temporarily at the end of this term, and if I do do that then Tripod would be my chosen successor.&nbsp;🫡
-  </p>
-
-    <h5 id="vp-tripodandnbsphas-creative-already-agreed-to-be-your-vp-or-is-this-still-in-the-planning-stage" class="align-center">
-      VP Tripod,&nbsp;has Creative already agreed to be your VP or is this still in the planning stage?
-    </h5>
-
-  <p>
-    Creative has agreed to be my running mate in the next election.<br>I think he would be a great guy to run with given our past history of working together.
   </p>
 <hr class="separator separator--long-line" />
 <div><h4>Share article:</h4>
