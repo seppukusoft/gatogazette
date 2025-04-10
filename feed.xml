@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-04-10T01:24:45-04:00</updated>
+    <updated>2025-04-10T01:26:17-04:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -16,18 +16,26 @@
         </author>
         <link href="https://gatogazette.com/the-simdem-papers-a-multi-part-investigation/"/>
         <id>https://gatogazette.com/the-simdem-papers-a-multi-part-investigation/</id>
+        <media:content url="https://gatogazette.com/media/posts/43/c63264a3a1b35a452ddd3cc9451dff46_t.jpeg" medium="image" />
             <category term="Politics"/>
             <category term="Law"/>
 
         <updated>2025-04-10T01:24:45-04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://gatogazette.com/media/posts/43/c63264a3a1b35a452ddd3cc9451dff46_t.jpeg" alt="" />
                     The Gato Gazette has spent the last week investigating several allegations of corruption, incompetency, and other illegal activities at the highest levels of the SimDem government. What started as a single screenshot of a conversation leaked by an former government employee has since spiraled into&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://gatogazette.com/media/posts/43/c63264a3a1b35a452ddd3cc9451dff46_t.jpeg" class="type:primaryImage" alt="" /></p>
                 
+    <figure class="post__image post__image--center">
+      <img decoding="async" loading="lazy" src="https://gatogazette.com/media/posts/43/c63264a3a1b35a452ddd3cc9451dff46_t-2.jpeg" height="340" width="453" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-xs.jpeg 640w ,https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-sm.jpeg 768w ,https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-md.jpeg 1024w ,https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-lg.jpeg 1366w ,https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-xl.jpeg 1600w ,https://gatogazette.com/media/posts/43/responsive/c63264a3a1b35a452ddd3cc9451dff46_t-2-2xl.jpeg 1920w">
+      
+    </figure>
+
   <p>
     The Gato Gazette has spent the last week investigating several allegations of corruption, incompetency, and other illegal activities at the highest levels of the SimDem government.
   </p>
@@ -39,6 +47,24 @@
   <p>
     With information on the DOJ, SDBI, OHS, presidency, TIDE, PUP, and more, we've decided to break our reporting down into multiple articles just to get through it all.<br><br>This page will link to all of the articles in this series as they are posted.<br>
   </p>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
