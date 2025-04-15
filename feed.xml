@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-04-15T17:27:52-04:00</updated>
+    <updated>2025-04-15T19:06:51-04:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -25,7 +25,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/46/vhsart-4.png" alt="" />
-                    We received the following mysterious video and were compelled to share it as part of our investigation: Advertisement Share article: Copy link
+                    We received the following mysterious video and were compelled to share it as part of our investigation: .video-thumb { position: relative; width: 100%; margin: 0 auto; max-width: 640px; cursor: pointer; } .video-thumb img { width: 100%; display: block; border-radius: 8px; } .video-thumb::after { content: '▶';&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -40,7 +40,48 @@
   <p>
     We received the following mysterious video and were compelled to share it as part of our investigation:
   </p>
-<div><video loading="lazy" width="100%" height="auto" controls="controls"><source src="media/files/GazetteTV.mp4" type="video/mp4" /></video>
+<div><style>
+.video-thumb {
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  max-width: 640px;
+  cursor: pointer;
+}
+.video-thumb img {
+  width: 100%;
+  display: block;
+  border-radius: 8px;
+}
+.video-thumb::after {
+  content: '▶';
+  font-size: 64px;
+  color: white;
+  text-shadow: 0 0 10px black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+<div class="video-thumb" onclick="loadExternalVideo()">
+  <img decoding="async" loading="lazy" src="/media/files/1.webp" alt="Play video" data-is-external-image="true">
+</div>
+
+<div id="video-container" style="display:none; margin-top: 1em;">
+  <video loading="lazy" width="100%" height="360" controls autoplay>
+    <source src="https://media.gatogazette.com/GazetteTV(2).mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<script>
+function loadExternalVideo() {
+  document.querySelector('.video-thumb').style.display = 'none';
+  document.getElementById('video-container').style.display = 'block';
+}
+</script>
 </div>
 <div><hr class="separator separator--dots"></hr>
 <center><h6>Advertisement</h6></center>
