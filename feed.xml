@@ -3,7 +3,7 @@
     <title>Gato Gazette</title>
     <link href="https://gatogazette.com/feed.xml" rel="self" />
     <link href="https://gatogazette.com" />
-    <updated>2025-05-05T20:29:22-04:00</updated>
+    <updated>2025-05-05T20:30:33-04:00</updated>
     <author>
         <name>Gato</name>
     </author>
@@ -70,6 +70,11 @@
   <p>
     Chief Justice Sparty's net approval rating has increased by nearly 30 points, going from -16.8% to 11.6%. Not only has the Chief Justice's disapproval level dropped sharply from its high in March, but his raw approval has also increased, showing a major turnaround in public opinion.
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 <div><div class="flourish-embed flourish-chart" data-src="visualisation/22982616"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img decoding="async" loading="lazy" src="https://public.flourish.studio/visualisation/22982616/thumbnail" width="100%" alt="chart visualization"  data-is-external-image="true"></noscript></div></div>
 
   <p>
@@ -110,6 +115,11 @@
   <p>
     However, respondents were slightly more hesitant to express full trust in the lower courts comparatively, with a 14.5% increase in those with a "fair amount' of trust and only a 4.3% increase for those with a "great deal" of trust.
   </p>
+<div><hr class="separator separator--dots"></hr>
+<center><h6>Advertisement</h6></center>
+<br>
+<img decoding="async" loading="lazy" src="" alt="" class="ad" data-is-external-image="true">
+<hr class="separator separator--dots"></hr></div>
 
     <h4 id="opd-trust-and-trial-speed" class="align-center">
       OPD Trust and Trial Speed
@@ -137,6 +147,24 @@
   <p>
     Overall, both trust in and approval of the judicial system and related institutions are largely high and have increased since March. This, coupled with the recently-decreased threat level due to successes against external bad actors, bodes well for the future of SimDemocracy.
   </p>
+<div><h4>Share article:</h4>
+<center>
+<button onclick="copyURL()">Copy link</button>
+<script>
+function copyURL() {
+ let url = document.location.href
+navigator.clipboard.writeText(url).then(function() {
+    console.log('Copied!');
+}, function() {
+    console.log('Copy error')
+});
+}
+</script>
+</center>
+<span></span>
+<br>
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-bce4f8ea-9bd1-4793-88bc-63467f850c33"></div></div>
             ]]>
         </content>
     </entry>
