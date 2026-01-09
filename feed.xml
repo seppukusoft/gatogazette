@@ -22,7 +22,7 @@
             <category term="Election"/>
 
         <updated>2025-05-12T18:04:53-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/50/cheney_office.jpg" alt="" />
                     “Today, I’m announcing my candidacy for President of SimDemocracy.” These are words I never expected to say — but they’re the only words I can envision while I think of our experiment. Now more than ever, SimDemocracy needs a steady hand and a bold vision—someone&hellip;
@@ -98,7 +98,7 @@
             <category term="Law"/>
 
         <updated>2025-05-05T19:07:24-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/49/hammer-horizontal-court-justice-preview-2-lg.jpg" alt="" />
                     GatoPoll last conducted a judiciary approval poll in early March, covering both the Supreme Court and lower courts. The results for that poll were highly anticipated and although there was expressed interest in more regular polling of judiciary approval, that idea fell through the cracks.
@@ -257,7 +257,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Election"/>
 
         <updated>2025-04-15T17:06:59-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/46/vhsart-4.png" alt="" />
                     After a long wait, the Gazette has returned with more information on SimDem's government, TIDE, and more. However, this time it comes in a unique form compared to our previous reporting. We received the following mysterious video and were compelled to share it as part&hellip;
@@ -432,7 +432,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Law"/>
 
         <updated>2025-04-10T02:27:50-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/44/ewfgerg-3.png" alt="" />
                     It's a little more complicated than that. One of the biggest ongoing stories of the last week or so has been the arrest of ex-OHS members Mythrows and Notcom; the public was given little information as to why, presumably for national security reasons, which led&hellip;
@@ -715,7 +715,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Law"/>
 
         <updated>2025-04-10T01:24:45-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/43/c63264a3a1b35a452ddd3cc9451dff46_t.jpeg" alt="" />
                     The Gato Gazette has spent the last week investigating several allegations of corruption, incompetency, and other illegal activities at the highest levels of the SimDem government. What started as a single screenshot of a conversation leaked by an former government employee has since spiraled into&hellip;
@@ -795,7 +795,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Election"/>
 
         <updated>2025-04-06T18:48:10-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/42/7ccdb7662dbeba1c16e86f6e42f4c227-2.png" alt="" />
                     Matt Cheney's profile picture. Note: The interview transcript has been edited for grammar and pacing, but is otherwise unedited. Now, the news has spread that you're stepping down from your role as Treasury Secretary. What led to your decision to resign? I have been in&hellip;
@@ -1053,7 +1053,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Opinion"/>
 
         <updated>2025-04-04T17:49:15-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/40/il_fullxfull.1576487974_cltx.webp" alt="" />
                     Lux et veritas. Light and truth. The role of journalism is to shed light where darkness rests and to break the shields and covers that protect the secrets hidden beneath. Journalism isn’t about playing mediator; it’s about putting reality on full display. This past week&hellip;
@@ -1200,7 +1200,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Polling"/>
 
         <updated>2025-03-18T08:29:08-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/39/communityIcon_31v39qgiwjad1-2.jpeg" alt="" />
                     We polled 35 SimDem users on their opinions of several well-known members of the community. The results of that sponsored Citizen Approval Poll can be found below, sorted in line with their headers: Net Approval (Ranking) Advertisement Most "Strongly Approved" (Percentage) Most "Strongly Approved" (Count)&hellip;
@@ -1278,7 +1278,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Law"/>
 
         <updated>2025-03-13T13:13:02-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/37/fontbolt5.png" alt="" />
                     The pursuit of a noble cause or idea is not an end in itself. History has shown countless examples of&nbsp;those committed to a specific idea who take it "too far" at the expense of others, and the line between principled actor and idealogue is extremely&hellip;
@@ -1329,7 +1329,7 @@ navigator.clipboard.writeText(url).then(function() {
             <category term="Politics"/>
 
         <updated>2025-03-11T19:06:23-04:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://gatogazette.com/media/posts/36/image0-2.jpg" alt="" />
                     Let me begin this article by providing a rundown of the SDSE. The SDSE (SimDemocracy Stock Exchange) is an independent project where entrepreneurs and investors can trade public business stocks. The SDSE was created during a time when the economy was stagnant, lacking the mobility&hellip;
